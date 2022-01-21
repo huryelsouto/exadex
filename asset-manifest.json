@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exadex/static/css/main.073c9b0a.css",
+    "main.js": "/exadex/static/js/main.2cfdddc7.js",
+    "static/js/787.c85c12f5.chunk.js": "/exadex/static/js/787.c85c12f5.chunk.js",
+    "static/media/logo.svg": "/exadex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/exadex/index.html",
+    "main.073c9b0a.css.map": "/exadex/static/css/main.073c9b0a.css.map",
+    "main.2cfdddc7.js.map": "/exadex/static/js/main.2cfdddc7.js.map",
+    "787.c85c12f5.chunk.js.map": "/exadex/static/js/787.c85c12f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2cfdddc7.js"
+  ]
+}
