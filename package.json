@@ -1,5 +1,6 @@
 {
   "name": "exadex",
+  "homepage": "https://github.com/huryelsouto/exadex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
